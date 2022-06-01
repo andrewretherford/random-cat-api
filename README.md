@@ -42,7 +42,7 @@ Adding the API key allows you to utilize all that the Cat API has to offer!
 2. Change into the new directory.
 3. Fulfill the listed requirements.
 
-Starter code is available in [`lib/challenge.js`](lib/).
+Starter code is available in [`lib`](lib/).
 
 ## Requirements
 
